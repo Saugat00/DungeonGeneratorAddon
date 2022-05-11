@@ -1,0 +1,10 @@
+ 1 - North Vector
+ 2 - East Vector
+ 3 - South Vector
+ 4 - West Vector
+ 5 - Opens Down
+ 6 - Opens Left
+ 7 - Opens Up
+ 8 - Opens Right
+ 9 - North AND South Vector
+10 - East  AND West  Vector

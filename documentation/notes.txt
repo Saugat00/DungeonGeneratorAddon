@@ -1,0 +1,7 @@
+Takes language with encoded data:
+  - The cartesian coordinates
+  - The direction with respect to the rest of the path
+Massive Advantage:
+  - Unified simple interface for coding maze alghorithms (i.e. regardless of
+    implmentation [data structures, logic, ***encoded data***])
+  - Compiler runs in O(n)
